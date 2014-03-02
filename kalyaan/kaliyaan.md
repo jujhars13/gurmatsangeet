@@ -23,9 +23,9 @@ mDND | P-P- | R-[Gm][Pm] | GRS-
 mGmD | S*-S*-| NR*G*R* | NR*S*-
 NDNS* | NDP- |  R-[Gm][Pm] | GRS-
 
-
 kaliaan mehalaa 5 || *[Ang 1322](http://igurbani.com/?shabadid=4817&id=56331)*
 
+```
 maerae laalan kee sobhaa ||
 Oh, the glory of my beloved!
 
@@ -40,7 +40,7 @@ The Yogis, spiritual teachers, meditators and the thousand-headed serpent all me
 
 kahu naanak sa(n)than balihaarai jo prabh kae sadh sa(n)gee ||2||3||
 Says Nanak, I would die for the Saints - the eternal companions of God. ||2||3||
-
+```
 
 ## Tanas
 
