@@ -8,11 +8,11 @@ Also known as Yeman, or Yeman Kalyaan.
 
 There are two versions of Kalyaan in Sri Guru Granth Sahib jee: Kalyaan, and Kalyaan Bopali
 
-- | -
-- | -
-Aroh: Sampporan | Avrohi: Sampooran
-Taath: Kalyaan | Vadi, Samvadi : G,N
-Time: 4th Quater | - 
+- Aroh: Sampporan
+- Avrohi: Sampooran
+- Taath: Kalyaan
+- Vadi, Samvadi : G,N
+- Time: 4th Quater (early evening)
 
 
 ## Sabd - Teentaal (16 beats)
