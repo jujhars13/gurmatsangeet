@@ -4,21 +4,25 @@
 
 Romantic raag found towards the end of Guru Granth Sahib Jee.
 
+Also known as Yeman, or Yeman Kalyaan.
+
+There are two versions of Kalyaan in Sri Guru Granth Sahib jee: Kalyaan, and Kalyaan Bopali
+
 - | -
 - | -
 Aroh: Sampporan | Avrohi: Sampooran
-Taath: Kalyaan | V,S: G,N
-Time: 4th Quater | 
+Taath: Kalyaan | Vadi, Samvadi : G,N
+Time: 4th Quater | - 
 
 
 ## Sabd - Teentaal (16 beats)
- 1 | 2 | 3 | 4
-- | - | - | -
+1 | 2 | 3 | 4
+:-: | :-: | :-: | :-:
 N.RGR | G-G- | R-[Gm][Pm] | GRS-
 mDND | P-P- | R-[Gm][Pm] | GRS-
 mGmD | S*-S*-| NR*G*R* | NR*S*-
 NDNS* | NDP- |  R-[Gm][Pm] | GRS-
- 
+
 
 kaliaan mehalaa 5 || *[Ang 1322](http://igurbani.com/?shabadid=4817&id=56331)*
 
@@ -64,6 +68,7 @@ S. N R.- S.--,
 S.R.G.R.--N R.-S.-,
 S.NDPmGRS--,
 .NRS- 
+
 
 
 
