@@ -70,6 +70,6 @@ S.NDPmGRS--,
 .NRS- 
 
 # Homework and furthur research
-## (Gur Ke Moorat Man Meh Dian)[https://www.youtube.com/watch?v=HbRkvpwSxFg]
+## [Gur Ke Moorat Man Meh Dian](https://www.youtube.com/watch?v=HbRkvpwSxFg)
 Notice the incredible alaaps 
 
