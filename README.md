@@ -1,5 +1,6 @@
 # Gurmat Sangeet Academy Lesson Notes
 
+![](https://github.com/jujhars13/gurmatsangeet/blob/master/gurmatsangeet_logo.png?raw=true)
 
 Lesson notes and extracts for the Birmingham Gurmat Sangeet Academy's beginner's classes in [Birmingham](http://www.gurmatsangeet.org/class-calendar/)
 
