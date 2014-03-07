@@ -9,7 +9,8 @@ These have been put up on Github as a temporary store and the markdown format ma
 
 ## Blurb 
 
-The Gurmat Sangeet Academy, a not for profit organisation dedicated to raising awareness in Kirtan (Sikh Hymns) and Katha (Discourse). Here you can find audio and video files, biographies and upcoming events.
+The Gurmat Sangeet Academy, a not for profit organisation dedicated to raising awareness in Kirtan (Sikh Hymns) and Katha (Discourse).
+This repository contains lesson notes for beginners.
 
 [Gurmatsangeet.org](http://www.gurmatsangeet.org/)
 
