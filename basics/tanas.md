@@ -2,6 +2,8 @@
 
 ## Tana 13 
 
+Another great one for improving fingering.  Ideally play this all the way down to ,M and all the way up to G*
+
 1 | 2
 :-: | :-:
 srsr, grsr|rgrg, mgrg
