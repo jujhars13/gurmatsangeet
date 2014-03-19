@@ -47,3 +47,7 @@ S.NDPmGRS--,
 The key thing to note here is the reliance on vocals and not hinding behind instruments. The instruments just tastefully suppliment the voice which is how it's supposed to be done.  
 Also note the incredible vocal alaaps. 
 
+### [Dhrupad vocal recital](https://www.youtube.com/watch?v=zFQMsIDHMOo)
+This is a [Dhrupad](http://www.dhrupad.info/) vocal recital from one of my favourite [dhrupad artists](http://dhrupaduday.com/).  It's a long piece but well worth listening to as he really explores a lot of subtleties in Kalyaan.  He takes his time and really explores a lot of its facets that are pretty much glossed over in most performances.
+
+
