@@ -44,5 +44,5 @@ S.NDPmGRS--,
 
 # Homework and furthur research
 ### [Gur Ke Moorat Man Meh Dian](https://www.youtube.com/watch?v=HbRkvpwSxFg)
-Notice the incredible alaaps 
+Note the incredible vocal alaaps. 
 
