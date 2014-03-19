@@ -44,5 +44,6 @@ S.NDPmGRS--,
 
 # Homework and furthur research
 ### [Gur Ke Moorat Man Meh Dian](https://www.youtube.com/watch?v=HbRkvpwSxFg)
-Note the incredible vocal alaaps. 
+The key thing to note here is the reliance on vocals and not hinding behind instruments. The instruments just tastefully suppliment the voice which is how it's supposed to be done.  
+Also note the incredible vocal alaaps. 
 
