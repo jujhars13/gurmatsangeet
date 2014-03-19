@@ -42,7 +42,7 @@ S.R.G.R.--N R.-S.-,
 S.NDPmGRS--,
 .NRS- 
 
-# Homework and furthur research
+## Homework and furthur learning
 ### [Gur Ke Moorat Man Meh Dian](https://www.youtube.com/watch?v=HbRkvpwSxFg)
 The key thing to note here is the reliance on vocals and not hinding behind instruments. The instruments just tastefully suppliment the voice which is how it's supposed to be done.  
 Also note the incredible vocal alaaps. 
