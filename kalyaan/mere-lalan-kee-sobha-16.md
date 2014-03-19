@@ -30,10 +30,9 @@ Says Nanak, I would die for the Saints - the eternal companions of God. ||2||3||
 
 
 ## proper form
-
-1 | 2 | 3 | 4 | 6 | 7 | 8
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-N.RGR | G-G- | R-[Gm][Pm] | GRS-
+1 | 2 | 3 | 4 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: 
+          N.RGR | G-G- | R-[Gm][Pm] | GRS-
 mDND | P-P- | R-[Gm][Pm] | GRS-
 mGmD | S*-S*-| NR*G*R* | NR*S*-
 NDNS* | NDP- |  R-[Gm][Pm] | GRS-
