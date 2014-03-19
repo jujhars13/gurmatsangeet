@@ -1,4 +1,4 @@
-# Mere Lalan Kee Sobha
+# Mere Laalan Kee Sobha
 
 ## Teentaal (16 beats)
 
