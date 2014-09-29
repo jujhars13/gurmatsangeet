@@ -1,6 +1,6 @@
 ## 1. Basic Tanas
 
-see [1. 2014-09-27 Ustaad Surjeet Singh Workshop Basic Gamak Tanas.MP3](1. 2014-09-27 Ustaad Surjeet Singh Workshop Basic Gamak Tanas.MP3)
+see [1. 2014-09-27 Ustaad Surjeet Singh Workshop Basic Gamak Tanas.MP3](https://www.dropbox.com/s/rxf11kv1gjgrhjh/1.%202014-09-27%20Ustaad%20Surjeet%20Singh%20Workshop%20Basic%20Gamak%20Tanas.MP3?dl=0)
 
 ## Tana 1
 S R G M P D N S with meend up to each note on arohi and down to on avorhi
