@@ -4,9 +4,11 @@ These are notes from the strings workshop with Ustaad Surjeet Singh in Birmingha
 ## 1. Basic Tanas
 
 see [1. 2014-09-27 Ustaad Surjeet Singh Workshop Basic Gamak Tanas.MP3](https://www.dropbox.com/s/rxf11kv1gjgrhjh/1.%202014-09-27%20Ustaad%20Surjeet%20Singh%20Workshop%20Basic%20Gamak%20Tanas.MP3?dl=0)
+  
 
 ## Tana 1 (~1min)
 `S R G M P D N S with meend up to each note on arohi and down to on avrohi`
+  
 
 ## Tana 2 (~24 mins)
 `S (G)R (G)R (M)G (M)G M- ...`
@@ -14,9 +16,11 @@ see [1. 2014-09-27 Ustaad Surjeet Singh Workshop Basic Gamak Tanas.MP3](https://
 `S (G)R (G)R (G)R (M)G (M)G (M)G M- ...`
 ### x4
 `S (G)R (G)R (G)R (G)R (M)G (M)G (M)G (M)G M- ...`
+  
 
 ## Tana 3 variation (~33:30)
 `S (G)R (G)R (M)G (M)G (M)G M- ...`
+  
 
 
 ## 2. Extra Gamak Tanas
