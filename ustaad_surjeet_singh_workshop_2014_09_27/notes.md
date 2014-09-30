@@ -23,6 +23,7 @@ see [1. 2014-09-27 Ustaad Surjeet Singh Workshop Basic Gamak Tanas.MP3](https://
   
 
 
+
 ## 2. Extra Gamak Tanas
 
 see  [2. 2014-09-27 Ustaad Surjeet Singh Workshop Extra Gamak Tanas.MP3](https://www.dropbox.com/s/vdony15ota560f5/2.%202014-09-27%20Ustaad%20Surjeet%20Singh%20Workshop%20Extra%20Gamak%20Tanas.MP3?dl=0)
@@ -38,6 +39,8 @@ see  [2. 2014-09-27 Ustaad Surjeet Singh Workshop Extra Gamak Tanas.MP3](https:/
 ### 10 beats (~34 mins)
 
 `S R G (G)R (G)R (G)R S G R S`
+
+
 
 ## 3. Other Tanas
 
@@ -64,6 +67,9 @@ and
 
 #### 6. Variation (~40 mins)
 `SRSRSRSR, RGRGRGRG ....`
+
+
+
 
 ## TODO
 
