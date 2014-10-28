@@ -5,6 +5,7 @@
 - 6 Beat Cycle - Dadara.  Speed 80bpm all the way up to 150bpm
 - 3 notes per bow
 - Start slow and precicse, then when confident speed up
+- Minimum 20 mins solid (contiguous and uninteruppted) practice 3x per week
 
 1 | 2 | 3 
 :-: | :-: | :-:
