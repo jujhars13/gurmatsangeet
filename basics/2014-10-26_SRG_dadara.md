@@ -1,4 +1,4 @@
-# 2014-10-26 - SRG - Dadara 
+# 2014-10-26 | SRG | Dadara 
 
 [Grab the recording here - in D](https://dl.dropboxusercontent.com/u/12448/2014-10-26-srg-dadara.MP3)
 
