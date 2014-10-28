@@ -16,11 +16,12 @@ G | M | P
 
 ## Notes
 This excercise will get your fingering going and also introduce you to non 4/4 bowing.
+You need to be able to play at 140bpm,playing blind while maintaining tonal quality.
 
 ## Advanced playing
-For those who like a challenge
+For those who like a challenge:
 - Play 6 and then 12 notes per bow
 - Play *blind*
 - Take up to 200bmp but play 6 notes per bow
 - Play full Scale down to M. and up to G\**
-- Play in a Sampooran:Sampooran Raag scale as [Bhairon/Bhairav](http://en.wikipedia.org/wiki/Bhairav_(raga))  
+- Play in a 7:7 (sampooran) Raag scale as [Bhairon/Bhairav](http://en.wikipedia.org/wiki/Bhairav_(raga))  
