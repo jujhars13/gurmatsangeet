@@ -1,9 +1,9 @@
 # 2014-10-26 | SRGM | Teentaal 
 
-[Grab the recording here - in A#](https://dl.dropboxusercontent.com/u/12448/2014-10-26-srg-dadara.MP3)
+[Grab the recording here - in A#](https://soundcloud.com/jujhars13/2014-02-11-srgm-teentaal)
 
-- 6 Beat Cycle - Dadara.  Speed 80bpm all the way up to 150bpm
-- 3 notes per bow
+- 16 Beat Cycle - Teentaal.  Speed 80bpm all the way up to 200bpm
+- 4 notes per bow
 - Start slow and precicse, then when confident speed up
 - Minimum 20 mins solid (contiguous and uninterrupted) practice 3x per week
 
