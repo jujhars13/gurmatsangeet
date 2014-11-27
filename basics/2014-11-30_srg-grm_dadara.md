@@ -2,7 +2,6 @@
 
 [Grab the recording here - in the key of B](https://www.dropbox.com/s/ypb3fyuy0ku2jfr/2014-11-30_srg-grm_dadara.MP3?dl=0)
 
-- Play 8 and then 16 notes per bow
 - 6 Beat Cycle - Dadara.  Speed 80bpm all the way up to 200bpm
 - 3 notes per bow then 6 at higher speeds
 - Start slow and precicse, then when confident speed up
