@@ -1,4 +1,4 @@
-# 2014-11-30 | SRG,GRM | Dadara
+# 2014-11-30 | SRG,GRS | Dadara
 
 [Grab the recording here - in the key of B](https://www.dropbox.com/s/ypb3fyuy0ku2jfr/2014-11-30_srg-grm_dadara.MP3?dl=0)
 
