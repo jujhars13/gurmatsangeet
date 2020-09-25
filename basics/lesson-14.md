@@ -1,4 +1,4 @@
-# Lesson 14 - 12 beats Ektal
+# Lesson 14 - 12 beats Ektaal
 
 ## Arohi
 

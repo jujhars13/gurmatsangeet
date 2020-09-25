@@ -1,4 +1,4 @@
-# 2014-11-02 | SRGM | Kherva 
+# Lesson 10 | SRGM | Kherva 
 
 [Grab the recording here - in A#](https://soundcloud.com/jujhars13/2014-02-11-srgm-teentaal). Please note that this recording is in teentaal, I've since realised that this excercise is better served by Kherva Taal (8 beats) as you'll land back on the sum.  So please use that in your practice in place of teentaal.  I might replace the recording at some point.
 
