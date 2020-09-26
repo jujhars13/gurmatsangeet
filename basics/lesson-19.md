@@ -1,7 +1,7 @@
 # Lesson 19 - 6 Beats (Dadra)
 
 - You can play the last three "hold note" as one bow or three bows, try both
-- 
+
 ## Arohi
 
 1 | 2 | 3 | 4 | 5 | 6

@@ -1,4 +1,4 @@
-## Lesson 21 - 16 beats (tintaal)
+## Lesson 21 Bonus - 16 beats (tintaal)
 
 by Pandit Ramnarayan Ji
 

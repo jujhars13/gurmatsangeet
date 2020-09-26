@@ -1,4 +1,4 @@
-# Lesson 26 - Bonus 8 beats Kherva
+# Lesson 26 Bonus - 8 beats Kherva
 
 Another great one for improving fingering.  Ideally play this all the way down to ,M and all the way up to G°
 

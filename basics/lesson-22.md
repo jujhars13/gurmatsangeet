@@ -1,8 +1,9 @@
-## Lesson 22 - 16 beats (tintaal)
+## Lesson 22 Bonus - 16 beats (tintaal)
 
 by Pandit Ramnarayan Ji
 
 ## Arohi
+
 S R G G RG RG R S,
 R G M M GM GM G R,
 G M P P MP MP M G,
@@ -11,6 +12,7 @@ P D N N DN DN D P,
 D N S° S° NS° NS° N D
 
 ## Avrohi
+
 D N S° S° NS° NS° N D,
 P D N N DN DN D P,
 M P D D PD PD PM,
