@@ -1,7 +1,21 @@
-# Lesson 18 (tintaal)
+# Lesson 18 - 16 beats (tintaal)
 
 ## Arohi
-MGRS, PMGR, DPMG, NDPM, S°NDP
+
+1 | 2 | 3 | 4 
+:-: |:-: |:-: |:-: 
+M | G | R | S
+P | M | G | R
+D | P | M | G
+N | D | P | M
+S° | N | D | P
 
 ## Avrohi
-PDNS°, MPDN, GMPD, RGMP, SRGM
+
+1 | 2 | 3 | 4 
+:-: |:-: |:-: |:-: 
+P | D | N | S°
+M | P | D | N
+G | M | P | D
+R | G | M | P
+S | R | G | M

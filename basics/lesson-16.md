@@ -1,5 +1,4 @@
-# Lesson 16 - 7 beats roopak
-
+# Lesson 16 - 7 beats (Roopak)
 
 ## Arohi
 
