@@ -47,10 +47,10 @@ see  [2. 2014-09-27 Ustaad Surjeet Singh Workshop Extra Gamak Tanas.MP3](https:/
 see [3. 2014-09-27 Ustaad Surjeet Singh Workshop More Meend Tanas](https://www.dropbox.com/s/mges78lh3kinlji/3.%202014-09-27%20Ustaad%20Surjeet%20Singh%20Workshop%20More%20Meend%20Tanas.MP3?dl=0)
 
 ### 1. Nice Meend Tana
-`SR SG SM SP SD SN SS*    S*N S*D S*P ...`
+`SR SG SM SP SD SN SS°    S°N S°D S°P ...`
 
 ### 2. Variation Meend Tana (around 11 mins)
-`SR SG, SR SM, SR SP, SR SD, SR SN, SR SS*`
+`SR SG, SR SM, SR SP, SR SD, SR SN, SR SS°`
 
 ### 3. Variation Meend Tana (around 15 mins)
 `SRSR G-, SRSR M-`

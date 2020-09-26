@@ -1,6 +1,6 @@
 # Tukahri
-N.SgmPNS*
-S*NDPmgRS
+N.SgmPNS°
+S°NDPmgRS
 
 ## Tukahri Alaap
 D.N.---(D.)
@@ -16,7 +16,7 @@ S.--
 (m.)g.--,(P)m.--(P)m--,P.--(m)P.--
 m.g.R.S.
 
-NDN--- Pm--- S*---- N---S*-----
+NDN--- Pm--- S°---- N---S°-----
 
 ## 4 Beats
 1. N.Sgm  PnDp
@@ -27,8 +27,8 @@ NDN--- Pm--- S*---- N---S*-----
 6. PmgR   SgmP
 
 ## 8 Beats
-1. N.Sgm  PNS*N   DPnD  PmgR
-2. N.Sgm  PNS*g*  R*SND PmgR
+1. N.Sgm  PNS°N   DPnD  PmgR
+2. N.Sgm  PNS°g*  SND PmgR
 3. N.Sgm ggRS PmDP ggRS
 4. SN.D.P. N.Sgm PmDP mgRS
 5. DnDP mgm- mgRg -gRS

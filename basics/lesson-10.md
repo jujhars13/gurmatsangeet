@@ -13,7 +13,7 @@ S | R | G | M
 R | G | M | P
 G | M | P | D
 
-*all the way up to top S\** and back down again*
+*all the way up to top S° and back down again*
 
 ## Notes
 You need to be able to play at 140bpm, playing blind while maintaining tonal quality. 

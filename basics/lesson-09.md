@@ -13,7 +13,7 @@ S | R | G
 R | G | M 
 G | M | P 
 
-*all the way up to top S\** and back down again*
+*all the way up to top S° and back down again*
 
 ## Notes
 This excercise will get your fingering going and also introduce you to non 4/4 bowing which some beginners find a real challenge.

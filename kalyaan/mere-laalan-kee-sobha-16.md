@@ -6,8 +6,8 @@
 :-: | :-: | :-: | :-:
 N.RGR | G-G- | R-[Gm][Pm] | GRS-
 mDND | P-P- | R-[Gm][Pm] | GRS-
-mGmD | S*-S*-| NR*G*R* | NR*S*-
-NDNS* | NDP- |  R-[Gm][Pm] | GRS-
+mGmD | S°-S°-| NR°G°R° | NR°S°-
+NDNS° | NDP- |  R-[Gm][Pm] | GRS-
 
 kaliaan mehalaa 5 || *[Ang 1322](http://igurbani.com/?shabadid=4817&id=56331)*
 

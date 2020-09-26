@@ -1,5 +1,10 @@
-Lesson 21 (by Pandit Ramnarayan Ji) (tintaal)
-Arohi: SRGGRGRS, RGMMGMGR, GMPPMPMG, MPDDPDPM, PDNNDNDP,
+## Lesson 21 - 16 beats (tintaal)
+
+by Pandit Ramnarayan Ji
+
+## Arohi 
+
+SRGGRGRS, RGMMGMGR, GMPPMPMG, MPDDPDPM, PDNNDNDP,
 DNS°S°NS°ND
 Avrohi: DNS°S°NS°ND, PDNNDNDP, MPDDPDPM, GMPPMPMG, RGMMGMGR,
 SRGGRGRS, 
