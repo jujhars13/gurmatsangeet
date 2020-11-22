@@ -1,4 +1,4 @@
-# Lesson 6 - SRG Teentaal
+# Lesson 6 - SRG- Teentaal
 
 [Grab the recording here - in D](https://www.dropbox.com/s/qtt4e4hewg0xpud/2014-10-19-basic-alankaar_srg-_teentaal.MP3)
 
