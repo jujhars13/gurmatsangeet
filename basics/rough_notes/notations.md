@@ -23,3 +23,9 @@ S R g M P D n S*
 ```
 S R G m P D N S*
 ```
+
+## Tukahri
+
+```
+S R g m P D n S*
+```
