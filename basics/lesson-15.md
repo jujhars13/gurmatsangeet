@@ -8,7 +8,8 @@ S | R | S | G | R | G
 R | G | R | M | G | M
 G | M | G | P | M | P
 M | P | M | D | P | D
-P | D | P | S° | N | S°
+P | D | P | N | D | N
+D | N | D | S° | N | S°
 
 ## Avrohi
 
