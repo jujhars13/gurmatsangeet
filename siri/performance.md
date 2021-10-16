@@ -1,11 +1,14 @@
-# Performance
+# Siri Performance
 
+65bpm, 85bpm, 100bpm, 125bpm
 ## Shaan (Melody)
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |- | :-: | :-: | :-: |
 | S | - | S | - | N.| d.| N.| S | r| - | - | S | r| P | - | P |
 | m | d | P | m | r | - | r | S | G| r | S | S | r| G | r | S |
+
+---
 
 ## 4 beat tanas
 
@@ -18,6 +21,8 @@ Start at beat 9
 | *3* | N.d. | P.N. | SG | rS |
 | *4* | Pm | rG | rS | N.S |
 | *5* | SN. | rS | Pm | dP |
+
+---
 
 ## 8 beat tanas
 
