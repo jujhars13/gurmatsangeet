@@ -24,7 +24,7 @@ Start at beat 9
 start at beat 5
 
 | # | 1 | 2 | 3 | 4 | 6 | 7 | 8 |
-| - | - | - | - | - | - | - | - |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | *1* | Pm | dP | Nd | Pm | Pd | Pm | rG | rS |
 | *2* | Pm | dP | mP | md | Pd | mP | rG | rS |
 | *3* | SN.| d.N.| Sr | Gr | Sr | mP | rG | rS |
