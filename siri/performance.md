@@ -20,3 +20,12 @@ Pm | rG | rS | N.S
 SN. | rS | Pm | dP
 
 ## 8 beat tanas
+
+1 | 2 | 3 | 4 | 6 | 7 | 8
+- | - | - | - | - | - | -
+Pm | dP| Nd| Pm| Pd| Pm| rG| rS
+Pm | dP| mP| md| Pd| mP| rG| rS
+SN.| d.N.| Sr| Gr| Sr| mP| rG| rS
+S^N| dP  | Nd| Pm| Pd| Pm| rG| rS
+Sr | Sr  |Gr |Sr |mP |dP |rG |rS
+Sr |mP   |dP |mP |Nd |Pm |rG |rS
