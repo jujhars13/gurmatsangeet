@@ -13,6 +13,7 @@ NNSS | SSSS
 
 1+ | 2
 :-: | :-:
+RRRR | RRRG
 MMMG | RGN.S
 NS\*S\*R\* | S\*nnD
 nnnD | PPPP
