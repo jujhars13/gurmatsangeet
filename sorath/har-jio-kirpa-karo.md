@@ -2,6 +2,7 @@
 
 2022-05-28
 
+[sabad](https://www.igurbani.com/shabad/asqv?verse=om2o)
 ## Chorus
 
 1+ | 2
