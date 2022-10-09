@@ -1,19 +1,18 @@
 # Kalyaan
 
-~~2014-01-03 v2~~
-** 2022-09-18 v3 **
-
 Romantic raag found towards the end of Guru Granth Sahib Jee.
 
 Also known as Yeman, or Yeman Kalyaan.
 
-There are two versions of Kalyaan in Sri Guru Granth Sahib jee: Kalyaan, and Kalyaan Bopali
+There are two versions of Kalyaan in Sri Guru Granth Sahib jee: Kalyaan and Kalyaan Bopali
 
-- Aroh: Sampporan
-- Avrohi: Sampooran
-- Taath: Kalyaan
-- Vadi, Samvadi : G,N
-- Time: 4th Quarter (early evening)
+. | . | .
+-- | -- | --
+Aroh | Sampooran(7) | `N. R G m D N S*`
+Avrohi | Sampooran(7) | `S* N D P m G R S`
+Taath | Kalyaan
+Vadi,Samvadi| G,N
+Time |  4th Quarter (early evening)
 
 ## Some  basic patterns
 
@@ -50,7 +49,7 @@ P m G R
 3. `S°NDP mGRS GmDN S---`
 4. `PmGm PDPm GmPm GRS-`
 
-## Nice alaap combos
+## Some nice alaap combos
 
 ```bash
 .N R G
