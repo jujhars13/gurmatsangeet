@@ -84,3 +84,7 @@ This is a [Dhrupad](http://www.dhrupad.info/) vocal recital from one of my favou
 ### 3. [Bhai Avtaar Singh - Gun Naad Dhun Anand Beid](http://www.gurmatsangeetproject.com/Recordings/as%20millis%20june%2011%2005/gun%20naad%20dhun%20anand%20bhed.MP3)
 
 My keertan hero sings a very very old bandish here.  It's simply incredible.  Here's another rendition of the same bandish by the [Gundecha Bandhu brothers.](http://www.gurmatsangeetproject.com/Pages/gundechabandhu.asp)
+
+### 4. [Bibi Sarabjeet Kaur](https://www.youtube.com/watch?v=IeZwhv7G-q0)
+
+A very moving Drupad rendition of this sabd.
