@@ -32,9 +32,7 @@ S*- S*-
 
 N D N R*
 S*- S*-
-
 ---
-
 S* N D P
 m D N S*
 
@@ -49,6 +47,26 @@ P m G R
 2. `NNDP mDNS NDPm GRS-`
 3. `S°NDP mGRS GmDN S---`
 4. `PmGm PDPm GmPm GRS-`
+
+## Spart Tana
+
+This is a 16 beat tana that covers several scales
+
+```bash
+S N. D. P.
+
+m. D. N. S
+
+N. R G m
+
+D N S* R*
+
+S* N D P
+
+m G R S
+
+#repeat
+```
 
 ## Nice alaap combos
 
