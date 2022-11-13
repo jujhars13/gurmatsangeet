@@ -56,12 +56,14 @@ This is a 16 beat tana that covers 3 scales
 S N. D. P.
 
 m. D. N. S
+(m. D. N. S optional)
 
 N. R G m
 
 D N S* R*
 
 S* N D P
+(N D P m optional)
 
 m G R S
 

@@ -4,7 +4,7 @@
 
 1 | 2 | 3 | 4
 :-: | :-: | :-: | :-:
-N.RGR | G-G- | R-[Gm][Pm] | GRS-
+N.RGR | GGGG | RR[Gm][Pm] | GRS-
 mDND | P-P- | R-[Gm][Pm] | GRS-
 mGmD | S°-S°-| NR°G°R° | NR°S°-
 NDNS° | NDP- |  R-[Gm][Pm] | GRS-
