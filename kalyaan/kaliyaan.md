@@ -52,7 +52,7 @@ P m G R
 This is a 16 beat tana that covers 3 scales
 
 ```bash
-# start at 60bpm
+# start at 60fbpm
 S N. D. P.
 
 m. D. N. S

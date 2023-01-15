@@ -4,8 +4,10 @@
 
 1 | 2 | 3 | 4
 :-: | :-: | :-: | :-:
-N.RGR | GGGG | RR[Gm][Pm] | GRS-
+
+N.RGR | GGGG | R-[Gm][Pm] | GRS-
 mDND | P-P- | R-[Gm][Pm] | GRS-
+
 mGmD | S°-S°-| NR°G°R° | NR°S°-
 NDNS° | NDP- |  R-[Gm][Pm] | GRS-
 
