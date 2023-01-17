@@ -47,7 +47,7 @@ P m G R
 3. `S°NDP mGRS GmDN S---`
 4. `PmGm PDPm GmPm GRS-`
 
-## Spart Tana
+## Spart Tanas
 
 This is a 16 beat tana that covers 3 scales
 
@@ -68,6 +68,27 @@ S* N D P
 m G R S
 
 #repeat
+```
+
+
+### Balistic spart tana
+
+This is a tougher "Balistic" spart tana
+
+```bash
+# not finished
+S N. D. P.
+
+m. G R S R
+
+G m D N
+
+R* G* m* P*
+
+m* G* R* S*
+
+N D P m
+
 ```
 
 ## Homework and further learning
