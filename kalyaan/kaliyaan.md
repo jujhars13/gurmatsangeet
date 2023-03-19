@@ -44,7 +44,7 @@ P m G R
 
 1. `N.RGm PmGR GmPm GRS-`
 2. `NNDP mDNS NDPm GRS-`
-3. `S°NDP mGRS GmDN S---`
+3. `S°NDP mGRS GmDN S°---`
 4. `PmGm PDPm GmPm GRS-`
 
 ## Spart Tanas
